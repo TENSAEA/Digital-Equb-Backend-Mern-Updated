@@ -1,0 +1,1 @@
+// a code for to create a model schema for analytics model forto show analtical data on user activities, user engagement of specific user so it should have userId foreign key?
